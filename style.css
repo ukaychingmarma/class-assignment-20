@@ -1,0 +1,52 @@
+.logo{
+     width:50px;
+     height:50px;
+}
+header{
+     background-color:rgb(218, 230, 246)
+}
+
+/* Breadcrumb Section */
+.bg{
+     background-color:rgb(230, 230, 230);
+}
+/* slider-section */
+.slider img{
+     height:450px;
+}
+.slider h5,p,button{
+     color:white;
+}
+
+/* this section creating for alert section */
+.alert button{
+     position: relative;
+     top: -42px;
+     width: 4px;
+}
+/* acordion */
+.border{
+     border:2px solid black;
+}
+.decoration{
+     
+}
+.decoration:hover{
+     text-decoration:underline;
+     transition:1s;
+}
+/* this section creating for ScrollSpy section */
+body {
+     position: relative;
+}
+/* this section creating for footer section */
+footer{
+     background-color:#17a2b8;
+}
+footer p{
+     font-size:20px;
+     margin-top:10px !important;
+     text-align:center;
+     padding:10px 0;
+}
+
